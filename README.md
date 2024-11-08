@@ -1,2 +1,2 @@
-# langchain_apps
+# langgraph Apps
 Apps repository built with langgraph
